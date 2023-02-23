@@ -1,2 +1,4 @@
-# To-Do-List
-Mde using Express, Node.js, ejs , js, html ,css
+To-Do-List is a web-based application that allows users to manage their tasks and prioritize their daily activities. 
+Developed using a variety of modern web technologies, including Express, Node.js, ejs, JavaScript, HTML, and CSS, this app is designed to be a simple and intuitive tool for anyone looking to stay organized and productive.
+With To-Do-List, users can create new tasks,  and mark them as completed once they're finished.The app includes a clean and minimalist user interface that makes it easy to navigate and use.
+Whether you're a student, a busy professional, or just someone looking to stay on top of your daily tasks, To-Do-List is the perfect tool for you. With its easy-to-use interface and powerful features, it's sure to become your go-to app for managing your daily activities and achieving your goals.
